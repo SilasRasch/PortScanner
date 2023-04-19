@@ -1,0 +1,15 @@
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\bin\Debug\net6.0\SMBv1Buster.exe
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\bin\Debug\net6.0\SMBv1Buster.deps.json
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\bin\Debug\net6.0\SMBv1Buster.runtimeconfig.json
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\bin\Debug\net6.0\SMBv1Buster.dll
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\bin\Debug\net6.0\SMBv1Buster.pdb
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\obj\Debug\net6.0\SMBv1Buster.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\obj\Debug\net6.0\SMBv1Buster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\obj\Debug\net6.0\SMBv1Buster.AssemblyInfoInputs.cache
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\obj\Debug\net6.0\SMBv1Buster.AssemblyInfo.cs
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\obj\Debug\net6.0\SMBv1Buster.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\obj\Debug\net6.0\SMBv1Buster.dll
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\obj\Debug\net6.0\refint\SMBv1Buster.dll
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\obj\Debug\net6.0\SMBv1Buster.pdb
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\obj\Debug\net6.0\SMBv1Buster.genruntimeconfig.cache
+C:\Users\Bruger\source\repos\2. Semester\SMBv1Buster\obj\Debug\net6.0\ref\SMBv1Buster.dll
